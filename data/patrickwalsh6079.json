@@ -1,0 +1,448 @@
+{
+    "public_identifier": "patrickwalsh6079",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/patrickwalsh6079/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230708%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230708T210103Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=30b1d7fd67fe42a9f13a9acf11a0eaffec2fa3eb8e6bc1125ea5f405817cd062",
+    "first_name": "Patrick",
+    "last_name": "Walsh",
+    "full_name": "Patrick Walsh",
+    "occupation": "Data Scientist at ECS",
+    "headline": "NLP Data Scientist with Background in Linguistics",
+    "summary": "Data scientist with over 13 years of experience in data analysis. Background in linguistics with an emphasis in Natural Language Processing (NLP). Over 5 years of experience in Computer Vision (CV), software development, and cybersecurity.\n\nKnowledgeable in multiple Python modules and frameworks, including NumPy, JSON, Pandas, NLTK, spaCy, SciKit-Learn, Pyodbc, Matplotlib, Seaborn, Requests, Jsonify, MXNet, and Keras.\n\nDriven IT professional with leadership and management experience. Military veteran with over 8 years of honorable service. Passionate about technology. Driven to achieve the next level. Life-long learner with a dedication to education and self-improvement.\n\nI'm a published author! Buy my first book here:\n\nhttps://www.lulu.com/shop/jake-winters/my-obsession/paperback/product-26de54.html?q=My+Obsession+&page=1&pageSize=4",
+    "country": "US",
+    "country_full_name": "United States of America",
+    "city": "Raleigh-Durham-Chapel Hill Area",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2023
+            },
+            "ends_at": null,
+            "company": "ECS",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/ecstechhq/",
+            "title": "Data Scientist",
+            "description": "\u2022\tWorking as a contractor for the Multi-Channel Technologies division at the Department of Veterans Affairs (VA)\n\u2022\tDesigns and develops NLP models for analyzing and routing veteran queries\n\u2022\tWorks with customers and business stakeholders, using data to provide timely answers to business problems\n\u2022\tUses Python to extract, analyze, and process textual data for the development of deep learning multi-label classification models \n\u2022\tAutomates business processes using Power Apps and SharePoint, increasing efficiency and identifying and preventing data discrepancies",
+            "location": "Fairfax, Virginia, United States",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/ecstechhq/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230708%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230708T210108Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=bd923d90139fa0a49859fee3c733509f99dea9da31d79467f49268c1bd3c65d3"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2022
+            },
+            "company": "SYSCOM, Inc.",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/syscom-inc-/",
+            "title": "Data Scientist",
+            "description": "\u2022\tWrote Python code to perform data wrangling and configure Deep Learning models, tune hyperparameters, and run training jobs within AWS and Azure\n\u2022\tAutomated data preprocessing pipeline for CV model development which increased efficiency from a 2-hour process down to 30 seconds\n\u2022\tCreated NLP models for Topic Modeling, Keyword Extraction, Sentiment Analysis, and Named Entity Recognition (NER)\n\u2022\tCreated CV models for image classification and object detection\n\u2022\tInterfaced with customers to understand business problems, build relationships, and help customers find solutions\n\u2022\tQueried, designed, and updated relational databases using SQL and Python\n\u2022\tDeveloped graphing and visualization programs to analyze medium to large datasets using Python, R, Tableau, and Power BI",
+            "location": "Baltimore, Maryland, United States",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/syscom-inc-/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230708%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230708T210108Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=ef721619e937093992084d066d29a1cb9ed6d5de5ab33033ebd30198fe080fae"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2017
+            },
+            "company": "Per Scholas",
+            "company_linkedin_profile_url": "https://www.linkedin.com/school/perscholas/",
+            "title": "Student",
+            "description": "Completed coursework for CompTIA IT certifications in Network+ and Security+.",
+            "location": "Silver Spring, MD",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFHZgBynzJpsw/company-logo_400_400/0/1656684744371?e=1697068800&v=beta&t=q6rQAUJ5Me3Sf3kSETxH-GD0NLK7QU7UgdCBkaiESfc"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2009
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2017
+            },
+            "company": "United States Army",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/us-army/",
+            "title": "Data Analyst and Arabic Linguist",
+            "description": "\u2022 Managed a team of 20 data analysts and single-handedly contributed to 25%\nof product output, the largest volume for the entire division at that time\n\u2022 Translated Arabic text and audio into English for further analysis\n\u2022 Queried secure databases and employed advanced analytics techniques\n\u2022 Served as project lead on oversight of over 25 accounts within a\ncybersecurity context\n\u2022 Provided high-level verbal and written reports to customers\n\u2022 Decrypted secure digital communications for exploitation of organizational\nweaknesses\n\u2022 Coordinated with government agencies to provide high-quality, time sensitive\ntechnical support\n\u2022 Developed risk management assessments of organizational best practices",
+            "location": null,
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/us-army/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230708%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230708T210108Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=6c5a78ec554002eb2f18cf7225f81dbe9832ab5626b81165ab230918d4927ff9"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2022
+            },
+            "ends_at": null,
+            "field_of_study": "Applied Data Science",
+            "degree_name": "Master of Science - MS",
+            "school": "Syracuse University",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFAyZ5pXkHL9Q/company-logo_400_400/0/1597671966100?e=1697068800&v=beta&t=B6kkaTfmQeTDjyD92m_reTRhQx_GodMh5FCEDE7iMCI",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2021
+            },
+            "field_of_study": "Software Development and Security",
+            "degree_name": "Bachelor of Science - BS",
+            "school": "University of Maryland Global Campus",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQE7DmPl0TeYKQ/company-logo_400_400/0/1569847494884?e=1697068800&v=beta&t=ScTFsCDHYt4C-ZnSccR4FvNPq0uXWHFaXaE9fdCZbK4",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2014
+            },
+            "field_of_study": "Arabic Language and Literature",
+            "degree_name": "Associate of Arts - AA",
+            "school": "Defense Language Institute Foreign Language Center",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQHXQsoYn-U8xA/company-logo_400_400/0/1594159898296?e=1697068800&v=beta&t=1M-s32oQZUCtPoJuTsfmSBqGHrjSaJ_HjBCx3yOZmaE",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2009
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2010
+            },
+            "field_of_study": "Intelligence Operations",
+            "degree_name": "Associate of Arts and Sciences - AAS",
+            "school": "Cochise College",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQESpuroXLx-BQ/company-logo_400_400/0/1519912311934?e=1697068800&v=beta&t=rm0APPLZi_cRUoJO8VzCkg_i3SrfY3itN7Y2i5T3-nQ",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "Arabic"
+    ],
+    "accomplishment_organisations": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2021
+            },
+            "ends_at": null,
+            "org_name": "Phi Kappa Phi",
+            "title": "Member",
+            "description": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2021
+            },
+            "ends_at": null,
+            "org_name": "Upsilon Pi Epsilon",
+            "title": "Member",
+            "description": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2021
+            },
+            "ends_at": null,
+            "org_name": "Alpha Sigma Lambda",
+            "title": "Member",
+            "description": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2017
+            },
+            "ends_at": null,
+            "org_name": "Phi Theta Kappa Honor Society International",
+            "title": "Member",
+            "description": null
+        }
+    ],
+    "accomplishment_honors_awards": [
+        {
+            "title": "Joint Service Commendation Medal",
+            "issuer": "U.S Department of Defense",
+            "issued_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "description": "Sergeant Patrick S Walsh, United States Army, distinguished himself by exceptionally meritorious service as a Target Analyst Reporter from December 2014 to March 2017. During this period, Patrick Walsh processed over 10,000 target communications that contributed to 80 product reports, supporting strategic interests and receiving positive feedback from policymakers at the highest levels of the United States government. Specifically, he discovered an adversary's attempt to influence the United States counter-terrorism legislation, halting malicious influence in the legislative branch, and ensuring America's commitment to the War on Terror. Additionally, Patrick Walsh led reporting efforts on a team of 20 intelligence analysts, single-handedly contributing to 25 percent of his mission's total output and representing the largest volume of collection for the entire division during this time period. Furthermore, he served as the Project Leader on oversight for 25 targets, responsible for completing target development against an adversary's government network, and identifying commanders and sub-commanders for exploit operations. Finally, Patrick Walsh provided technical assistance and mission-oriented training to four analysts by ensuring that they had the tools and knowledge necessary to succeed in fulfilling their requirements, increasing production and guaranteed mission success. The distinctive accomplishments of Patrick Walsh while serving his country reflect great credit upon himself, the United States Army, and the Department of Defense."
+        },
+        {
+            "title": "Joint Service Achievement Medal",
+            "issuer": "U.S. Department of Defense",
+            "issued_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "description": "Sergeant Patrick S Walsh, United States Army, distinguished himself by exceptionally meritorious achievement from March 2010 to January 2013. Patrick Walsh provided intelligence reporting for United States government policymakers, foreign partners, and combatant commanders in support of Operation IRAQI FREEDOM and Overseas Contingency Operations. He produced over 140 intelligence reports, providing key insight into an unstable region of strategic importance and ensuring the security of regional forces and local civilian personnel. Patrick Walsh conducted analysis which revealed the locations and intentions of most-wanted individuals and organizations responsible for conducting attacks against deployed forces. The distinctive accomplishments of Patrick Walsh reflect great credit upon himself, the United States Army, and the Department of Defense."
+        }
+    ],
+    "accomplishment_patents": [
+        {
+            "title": "Method and system for identifying objects in a blood sample",
+            "issuer": "US-11592657-B2",
+            "issued_on": {
+                "day": 28,
+                "month": 2,
+                "year": 2023
+            },
+            "description": null,
+            "application_number": null,
+            "patent_number": null,
+            "url": null
+        }
+    ],
+    "certifications": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2023
+            },
+            "ends_at": null,
+            "name": "LangChain MasterClass-Develop 7 OpenAI LLM Apps using Python",
+            "license_number": null,
+            "display_source": "udemy.com",
+            "authority": "Udemy",
+            "url": "https://www.udemy.com/certificate/UC-4ac84b4f-24dc-496f-8c76-f6ce0d8ee151/"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2022
+            },
+            "ends_at": null,
+            "name": "NLP - Natural Language Processing with Python",
+            "license_number": null,
+            "display_source": "udemy.com",
+            "authority": "Udemy",
+            "url": "https://www.udemy.com/certificate/UC-1707cbe5-a68f-45b1-9f44-59a20dc6183e/"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2022
+            },
+            "ends_at": null,
+            "name": "Information Literacy",
+            "license_number": null,
+            "display_source": "linkedin.com",
+            "authority": "LinkedIn",
+            "url": "https://www.linkedin.com/learning/certificates/6037ecc7aee036b2406136fd3db5f301ef14aa7f45a928012f2fed062f0c227a?trk=flagship-lil_details_certification"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2022
+            },
+            "ends_at": null,
+            "name": "Automating Third Party Risk Management with SecurityScorecard",
+            "license_number": "vwxxs9ma2iym",
+            "display_source": "skilljar.com",
+            "authority": "SecurityScorecard",
+            "url": "https://verify.skilljar.com/c/vwxxs9ma2iym"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2022
+            },
+            "ends_at": null,
+            "name": "Third Party Risk Management",
+            "license_number": "4j8a5g2evf2b",
+            "display_source": "skilljar.com",
+            "authority": "SecurityScorecard",
+            "url": "https://verify.skilljar.com/c/4j8a5g2evf2b"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2019
+            },
+            "ends_at": null,
+            "name": "Amazon SageMaker: Simplifying Machine Learning Application Development",
+            "license_number": "95f364417a4a4dc2a7293aef85e6931c",
+            "display_source": "edx.org",
+            "authority": "edX",
+            "url": "https://courses.edx.org/certificates/95f364417a4a4dc2a7293aef85e6931c"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2019
+            },
+            "ends_at": null,
+            "name": "Complete Python Bootcamp: Go from zero to hero in Python 3",
+            "license_number": null,
+            "display_source": "udemy.com",
+            "authority": "Udemy",
+            "url": "https://www.udemy.com/certificate/UC-KI9X5KW0/"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2018
+            },
+            "ends_at": null,
+            "name": "IBM Watson Explorer Content Analytics Product Fundamentals Technical Mastery Test v2",
+            "license_number": null,
+            "display_source": "adobe.com",
+            "authority": "IBM",
+            "url": "https://documentcloud.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3A2c703058-815a-4b03-ba36-170566d5f84b"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2018
+            },
+            "ends_at": null,
+            "name": "Automating Tasks Using IBM Robotic Process Automation with Automation Anywhere",
+            "license_number": null,
+            "display_source": "youracclaim.com",
+            "authority": "IBM",
+            "url": "https://www.youracclaim.com/badges/ea159669-de79-4bf0-bef4-6ce837616977/linked_in_profile"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2022
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2025
+            },
+            "name": "Security+",
+            "license_number": "G7LJSTQ5CMVQQ35V",
+            "display_source": "certmetrics.com",
+            "authority": "CompTIA",
+            "url": "https://www.certmetrics.com/comptia/public/verification.aspx"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2022
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2024
+            },
+            "name": "Microsoft Certified: Azure Data Scientist Associate",
+            "license_number": "992739126",
+            "display_source": "credly.com",
+            "authority": "Microsoft",
+            "url": "https://www.credly.com/badges/925ed6d4-0084-4d42-838b-e79c869627e1/public_url"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2020
+            },
+            "name": "Network+",
+            "license_number": "C8WXWJ0FK3RE15KM",
+            "display_source": "certmetrics.com",
+            "authority": "CompTIA",
+            "url": "https://www.certmetrics.com/comptia/public/verification.aspx"
+        }
+    ],
+    "skills": [
+        "Data Science",
+        "Natural Language Processing (NLP)",
+        "Computer Vision",
+        "Python",
+        "Machine Learning",
+        "Foreign Languages",
+        "Arabic",
+        "Artificial Intelligence (AI)",
+        "spaCy",
+        "NLTK",
+        "Amazon Web Services (AWS)",
+        "SQL",
+        "R (Programming Language)",
+        "Analytical Skills",
+        "Cloud Computing",
+        "Databases",
+        "Relational Databases",
+        "Data Analysis",
+        "Data Entry",
+        "Data Mining"
+    ],
+    "inferred_salary": {
+        "min": null,
+        "max": null
+    },
+    "extra": {
+        "github_profile_id": null,
+        "twitter_profile_id": null,
+        "facebook_profile_id": null
+    }
+}
