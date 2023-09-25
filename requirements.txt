@@ -4,3 +4,7 @@ openai
 requests
 tiktoken
 faiss-cpu
+streamlit
+streamlit-on-Hover-tabs
+pandas
+spacy

@@ -43,17 +43,21 @@ def scrape_profile(profile_url: str):
     return data
 
 
-# run the LinkedIn scraper
-profile = 'https://www.linkedin.com/in/patrickwalsh6079/'
-linkedin_scraper = scrape_profile(profile_url=profile)
+def create_json(profile):
+
+    # run the LinkedIn scraper
+    # profile = 'https://www.linkedin.com/in/patrickwalsh6079/'
+    name = profile.split('/')[-2]
+    # print(name)
+    linkedin_scraper = scrape_profile(profile_url=profile)
 
 
-# save to file
-# Serializing json
-json_object = json.dumps(linkedin_scraper, indent=4)
+    # save to file
+    # Serializing json
+    json_object = json.dumps(linkedin_scraper, indent=4)
 
-# Writing to JSON file
-with open("../data/patrickwalsh6079.json", "w") as outfile:
-    outfile.write(json_object)
+    # Writing to JSON file
+    with open(f"./data/{name}.json", "w") as outfile:
+        outfile.write(json_object)
 
-print('Successfully scraped LinkedIn profile!')
+    print('Successfully scraped LinkedIn profile!')
