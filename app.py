@@ -47,11 +47,18 @@ def main():
             st.write("Files in the folder:")
             for file in files:
                 profile_button = st.button(file)
+
                 if profile_button:
                     with open(f'./data/{file}', 'r') as json_file:
                         # Load the JSON data from the file
                         json_data = json.load(json_file)
+                    # generate_questions = st.button('Generate Questions about Profile')
                     st.json(json_data)
+
+                    # if generate_questions:
+                    #     with st.spinner('Loading questions...'):
+                    #         questions = interview_questions(json_data)
+                    #         st.write(questions)
 
     elif tabs == 'View Profiles':
         st.title("Query Profile")
@@ -67,7 +74,8 @@ def main():
             st.write("Profiles in folder:")
             for file in files:
                 st.write(file)
-            chat = st.text_input('')
+            chat = st.text_input('', key="text")
+
             submit = st.button('Submit')
             # sample_questions = st.button('Generate Interview Questions')
 
@@ -75,13 +83,18 @@ def main():
                 with st.spinner('Loading...'):
                     response = call_llm(chat)
                     st.write(response)
+
             # elif sample_questions:
             #     with st.spinner('Generating interview questions...'):
+            #         for file in files:
+            #             with open(f'./data/{file}', 'r') as json_file:
+            #                 # Load the JSON data from the file
+            #                 json_data = json.load(json_file)
+            #             st.json(json_data)
+            #             response = interview_questions(file)
             #
-            #         response = interview_questions(profile_data)
-            #
-            #         # Display the generated questions
-            #         st.write(response)
+            #             # Display the generated questions
+            #             st.write(response)
 
 
 if __name__ == "__main__":

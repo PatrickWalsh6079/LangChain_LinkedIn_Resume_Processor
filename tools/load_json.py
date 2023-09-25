@@ -19,14 +19,15 @@ def embed_data():
         with open('./data/' + doc, 'rb') as f:
             document = f.read()
             # use spaCy text splitter
-            text_splitter = SpacyTextSplitter(chunk_size=500)
+            text_splitter = SpacyTextSplitter(chunk_size=300)
             texts = text_splitter.split_text(document.decode('utf-8'))
             df = pd.DataFrame({'doc': texts})
             print(len(df))
             # print(df)
 
             # Load dataframe into loader
-            loader = DataFrameLoader(df, page_content_column='doc')
+            # loader = DataFrameLoader(df, page_content_column='doc')
+            loader = TextLoader(f"./data/{doc}")
             docs.append(loader.load())
 
     all_docs = [doc for sublist in docs for doc in sublist]
