@@ -10,17 +10,20 @@ from tools.load_json import embed_data
 def main():
     st.set_page_config(layout="wide")
 
-    st.header("Read LinkedIn Profiles")
+    st.title("Read LinkedIn Profiles")
     st.markdown('<style>' + open('./css/style.css').read() + '</style>', unsafe_allow_html=True)
 
     with st.sidebar:
-        tabs = on_hover_tabs(tabName=['Add Profile', 'View Raw', 'View Profiles'],
-                             iconName=['person', '{}', 'economy'], default_choice=0)
+        logo = st.image('linkedin.png')
+
+        tabs = on_hover_tabs(tabName=['Add Profile', 'View Raw', 'Chatbot'],
+                             iconName=['person', '{}', 'chat'], default_choice=0)
 
     if tabs == 'Add Profile':
-        st.title("Add New Profile")
-        profile = st.text_input('')
-        add_profile = st.button('Add profile')
+        st.header("Add New Profile")
+        link = st.link_button(label='LinkedIn Official Website', url='https://www.linkedin.com/')
+        profile = st.text_input('', placeholder='Copy and paste LinkedIn profile link here', help='Copy and paste LinkedIn profile link here')
+        add_profile = st.button('\+ Add profile')
 
         if add_profile:
             with st.spinner('Adding LinkedIn profile...'):
@@ -33,7 +36,7 @@ def main():
                     st.success('Profile successfully added!')
 
     elif tabs == 'View Raw':
-        st.title("Raw JSON")
+        st.header("Raw JSON")
 
         # Define the folder path
         folder_path = './data/'
@@ -60,8 +63,8 @@ def main():
                     #         questions = interview_questions(json_data)
                     #         st.write(questions)
 
-    elif tabs == 'View Profiles':
-        st.title("Query Profile")
+    elif tabs == 'Chatbot':
+        st.header("Ask Chatbot")
         # Define the folder path
         folder_path = './data/'
 
@@ -74,7 +77,7 @@ def main():
             st.write("Profiles in folder:")
             for file in files:
                 st.write(file)
-            chat = st.text_input('', key="text")
+            chat = st.text_input('', key="text", placeholder='Ask questions about profile here')
 
             submit = st.button('Submit')
             # sample_questions = st.button('Generate Interview Questions')
